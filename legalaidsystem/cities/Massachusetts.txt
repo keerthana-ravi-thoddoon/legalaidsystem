@@ -1,0 +1,56 @@
+Agawam
+Amesbury
+Attleboro
+Beverly
+Boston
+Braintree
+Bridgewater
+Brockton
+Cambridge
+Chelsea
+Chicopee
+East Longmeadow
+Easthampton
+Everett
+Fall River
+Fitchburg
+Framingham
+Franklin
+Gardner
+Gloucester
+Greenfield
+Haverhill
+Holyoke
+Lawrence
+Leominster
+Lowell
+Lynn
+Malden
+Marlborough
+Medford
+Melrose
+Methuen
+New Bedford
+Newburyport
+Newton
+North Adams
+Northampton
+Palmer
+Peabody
+Pittsfield
+Quincy
+Randolph
+Revere
+Salem
+Somerville
+Southbridge
+Springfield
+Taunton
+Waltham
+Watertown
+West Springfield
+Westfield
+Weymouth
+Winthrop
+Woburn
+Worcester
